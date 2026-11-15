@@ -26,3 +26,8 @@ google-services.json
 *.iml
 .DS_Store
 Thumbs.db
+
+.kotlin/
+__pycache__/
+*.pyc
+!apk/*.apk

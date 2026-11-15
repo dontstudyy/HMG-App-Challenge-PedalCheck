@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- debug 빌드 전용: 에뮬레이터에서 길안내를 걸어 출발 전 제안을 시험하는 수신기. release에는 포함되지 않는다.
+     길안내를 거는 requestRoute는 NAVI_ROUTE_SEARCH 권한이 필요하다(앱 본 기능은 길안내를 걸지 않으므로 release에는 이 권한이 없다). -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="pleos.car.permission.NAVI_ROUTE_SEARCH" />
+    <application>
+        <receiver
+            android:name="com.dontstudyy.pedalcheck.debug.DebugRouteReceiver"
+            android:exported="true" />
+    </application>
+</manifest>

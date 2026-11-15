@@ -1,0 +1,19 @@
+{
+  "packageName": "com.dontstudyy.pedalcheck",
+  "appDescription": "페달 체크: 주차한 차에서 30초 브레이크 반응속도를 재고 평소의 나와 비교하는 자가 점검 앱",
+  "version": "1.0",
+  "actionCalls": [
+    {
+      "component": "activity",
+      "name": "PEDAL_CHECK_START",
+      "description": "30초 페달 체크를 시작한다. 주차 상태에서 실행 조건 화면을 연다",
+      "parameters": []
+    },
+    {
+      "component": "activity",
+      "name": "MY_PEDAL_TREND",
+      "description": "나의 월별 반응속도 추이를 보여 준다",
+      "parameters": []
+    }
+  ]
+}

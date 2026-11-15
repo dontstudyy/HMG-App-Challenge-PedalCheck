@@ -1,0 +1,152 @@
+{
+ "baselineMs": 374,
+ "sessions": [
+  {
+   "monthsAgo": 2,
+   "day": 1,
+   "hour": 7,
+   "minute": 5,
+   "meanMs": 377
+  },
+  {
+   "monthsAgo": 2,
+   "day": 2,
+   "hour": 8,
+   "minute": 12,
+   "meanMs": 369
+  },
+  {
+   "monthsAgo": 2,
+   "day": 4,
+   "hour": 9,
+   "minute": 19,
+   "meanMs": 382
+  },
+  {
+   "monthsAgo": 2,
+   "day": 5,
+   "hour": 17,
+   "minute": 26,
+   "meanMs": 373
+  },
+  {
+   "monthsAgo": 2,
+   "day": 7,
+   "hour": 18,
+   "minute": 33,
+   "meanMs": 366
+  },
+  {
+   "monthsAgo": 2,
+   "day": 8,
+   "hour": 7,
+   "minute": 40,
+   "meanMs": 375
+  },
+  {
+   "monthsAgo": 2,
+   "day": 10,
+   "hour": 8,
+   "minute": 47,
+   "meanMs": 386
+  },
+  {
+   "monthsAgo": 2,
+   "day": 11,
+   "hour": 9,
+   "minute": 54,
+   "meanMs": 371
+  },
+  {
+   "monthsAgo": 2,
+   "day": 13,
+   "hour": 17,
+   "minute": 11,
+   "meanMs": 379
+  },
+  {
+   "monthsAgo": 2,
+   "day": 14,
+   "hour": 18,
+   "minute": 18,
+   "meanMs": 362
+  },
+  {
+   "monthsAgo": 1,
+   "day": 3,
+   "hour": 7,
+   "minute": 5,
+   "meanMs": 384
+  },
+  {
+   "monthsAgo": 1,
+   "day": 8,
+   "hour": 8,
+   "minute": 12,
+   "meanMs": 371
+  },
+  {
+   "monthsAgo": 1,
+   "day": 12,
+   "hour": 9,
+   "minute": 19,
+   "meanMs": 381
+  },
+  {
+   "monthsAgo": 1,
+   "day": 17,
+   "hour": 17,
+   "minute": 26,
+   "meanMs": 389
+  },
+  {
+   "monthsAgo": 1,
+   "day": 22,
+   "hour": 18,
+   "minute": 33,
+   "meanMs": 376
+  },
+  {
+   "monthsAgo": 1,
+   "day": 27,
+   "hour": 7,
+   "minute": 40,
+   "meanMs": 379
+  },
+  {
+   "monthsAgo": 0,
+   "day": 1,
+   "hour": 7,
+   "minute": 5,
+   "meanMs": 389
+  },
+  {
+   "monthsAgo": 0,
+   "day": 3,
+   "hour": 8,
+   "minute": 12,
+   "meanMs": 378
+  },
+  {
+   "monthsAgo": 0,
+   "day": 5,
+   "hour": 9,
+   "minute": 19,
+   "meanMs": 386
+  },
+  {
+   "monthsAgo": 0,
+   "day": 7,
+   "hour": 17,
+   "minute": 26,
+   "meanMs": 394
+  },
+  {
+   "monthsAgo": 0,
+   "day": 9,
+   "hour": 18,
+   "minute": 33,
+   "meanMs": 383
+  }
+ ]
+}
